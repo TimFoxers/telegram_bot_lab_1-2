@@ -1,6 +1,6 @@
 from telebot import TeleBot, types
 
-bot = TeleBot('2055691120:AAE2LyMbUracihKWO2NavwkBYBZuMRaxFYs')
+bot = TeleBot('******') #Insert Token
 
 dataClass = {'Воин':0,
              'Паладин':0,
